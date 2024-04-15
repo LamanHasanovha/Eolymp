@@ -1,9 +1,8 @@
-﻿
-using Main;
+﻿using Main.Solutions;
 
-var methodToInvoke = Solutions.Instance.SimpleProblem_1;
 
-methodToInvoke.Invoke();
+var worker = new Simple_Problem_1();
+worker.Invoke();
 
-Console.ReadLine(); 
+Console.ReadLine();
 
