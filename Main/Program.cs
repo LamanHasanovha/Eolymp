@@ -1,7 +1,7 @@
 ﻿using Main.Solutions;
 
 
-var worker = new Simple_Problem_1();
+var worker = new Olympiad_125();
 worker.Invoke();
 
 Console.ReadLine();
