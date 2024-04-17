@@ -1,7 +1,7 @@
 ﻿using Main.Solutions;
 
 
-var worker = new Zoo_157();
+var worker = new PumpkinPorridge_260();
 worker.Invoke();
 
 Console.ReadLine();
