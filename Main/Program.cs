@@ -1,7 +1,7 @@
 ﻿using Main.Solutions;
 
 
-var worker = new FourCircles_269();
+var worker = new NumberOfWords_329();
 worker.Invoke();
 
 Console.ReadLine();
