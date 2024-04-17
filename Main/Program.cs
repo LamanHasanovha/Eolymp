@@ -1,7 +1,7 @@
 ﻿using Main.Solutions;
 
 
-var worker = new PumpkinPorridge_260();
+var worker = new FourCircles_269();
 worker.Invoke();
 
 Console.ReadLine();
