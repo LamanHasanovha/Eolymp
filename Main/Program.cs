@@ -1,7 +1,7 @@
 ﻿using Main.Solutions;
 
 
-var worker = new Transformation_388();
+var worker = new SmoothDivisors_446();
 worker.Invoke();
 
 Console.ReadLine();
