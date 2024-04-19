@@ -1,7 +1,7 @@
 ﻿using Main.Solutions;
 
 
-var worker = new BypassMatrixWithSnake_488();
+var worker = new SumOfSquares_519();
 worker.Invoke();
 
 Console.ReadLine();
