@@ -1,7 +1,7 @@
 ﻿using Main.Solutions;
 
 
-var worker = new SumOfSquares_519();
+var worker = new pu();
 worker.Invoke();
 
 Console.ReadLine();
